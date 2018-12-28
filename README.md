@@ -25,4 +25,3 @@ npm install
 npm start
 ```
 
-**Try it:** https://expo.io/@community/image-upload-example
